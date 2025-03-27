@@ -1,5 +1,5 @@
 def calculator():
-    print("Basic Calculator JASV")
+    print("Basic Calculator JASV 1.0")
     print("Select operation:")
     print("1. Add")
     print("2. Subtract")
